@@ -66,12 +66,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'jasonw1230@hotmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -83,4 +83,4 @@ Currently, I am working as a Research Assistant under Professor Richard Frank at
 Criminology at the ICCRC. With our main Dark Crawler website, I have developed processes via Python 
 and MySQL to facilitate the training of machine learning models that use scraped data off the Dark Web and other social media platforms to predict potentially criminal or fake information for clients such as the RCMP.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

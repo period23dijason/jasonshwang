@@ -6,4 +6,7 @@ weight: 20
 title: About me
 active: true
 author: admin
+design:
+  background:
+    image: profile_touchup.jpg
 ---

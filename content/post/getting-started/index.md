@@ -30,15 +30,15 @@ image:
 
 authors:
   - admin
-  - 吳恩達
+  - Jason Sh Wang
 
 tags:
   - Academic
-  - 开源
+  - Open Source
 
 categories:
   - Demo
-  - 教程
+  - Courses
 ---
 
 ```python

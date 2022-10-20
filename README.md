@@ -1,4 +1,4 @@
 
 ## New Personal Website
 
-Experimenting to new methodologies
+Experimenting with new methodologies

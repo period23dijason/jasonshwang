@@ -77,17 +77,10 @@ email: ''
 highlight_name: true
 ---
 
-My name is Jason and I am a Taiwanese Canadian born and mostly raised in Vancouver, BC. Growing up, I have been interested in making websites, and have started programming since Grade 11. In 2020, I graduated from Simon Fraser University with a bachelor's degree in Computing Science along with a Co-operative Education degree designation. 
-
-With over two years of co-op and work experience under my belt, including around a year of internship and co-op at a tech startup, an international medical company, and the International CyberCrime Research Centre at the School of Criminology, I believe I may be of asset as a candidate who can quickly adapt to the technology stack at your company.
+My name is Jason and I am a Taiwanese Canadian born and mostly raised in Vancouver, BC. Growing up, I have been interested in making websites, and have started programming since Grade 11. In 2020, I graduated from Simon Fraser University with a bachelor's degree in Computing Science under the Co-operative Education degree designation. I have over two years of co-op and work experience under my belt, including around a year of internship and co-op at a tech startup, an international medical company, and the International CyberCrime Research Centre at the School of Criminology.
 
 Currently, I am working as a Research Assistant under Professor Richard Frank at the School of 
 Criminology at the ICCRC. With our main Dark Crawler website, I have developed processes via Python 
-and MySQL to facilitate the training of machine learning models that use scraped data off the Dark Web and other social media platforms to predict potentially criminal or fake information for agencies such as RCMP, the Department of National Defense, and the Canadian Armed Forces. Apart from also working on writing progress reports and giving presentations to these clients, I also have had previous co-op experience as a Web and Application Developer working with the .NET Framework on Visual Studio to implement features and fix bugs under the same department in SFU. 
-
-
--Experience in programming in JavaScript, C++, C, and Python
--Has around two years of industry experience doing software development
--Interested in potential opportunities
+and MySQL to facilitate the training of machine learning models that use scraped data off the Dark Web and other social media platforms to predict potentially criminal or fake information for clients such as the RCMP.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
